@@ -1,0 +1,16 @@
+*.abcl
+*.fasl
+*.dx32fsl
+*.dx64fsl
+*.lx32fsl
+*.lx64fsl
+*.x86f
+*~
+.#*
+.vscode/alive/fasl/tmp.lisp
+.vscode/alive/fasl/tmp.lisp
+.vscode/alive/fasl/tmp.lisp
+.vscode/alive/fasl/tmp.lisp
+.vscode/alive/fasl/tmp.lisp
+.vscode/alive/fasl/tmp.lisp
+tmp.lisp
